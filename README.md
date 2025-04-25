@@ -3,4 +3,6 @@ This repository documents a real-world cyber fraud incident
 
 Use of any of this report without consent can land you into Trouble.
 
+Prepared by 2nd year cybersecurity student and compiled this report as their first incident report to practice
+ Cyber investigation skills and contribute to future awareness.
 
