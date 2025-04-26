@@ -7,4 +7,4 @@ Prepared by 2nd year cybersecurity student and compiled this report as their fir
  Cyber investigation skills and contribute to future awareness.
 
 Contact-
-<link>ihnsep@gmail.com</link>
+ihnsep@gmail.com
